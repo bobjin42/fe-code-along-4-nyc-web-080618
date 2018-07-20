@@ -78,7 +78,11 @@ img, video, audio {
 .wrapper {
   width: 960px;
   margin: 0 auto;
+<<<<<<< HEAD
   
+=======
+  background: #eee;
+>>>>>>> 1fc68e9dca0c1c220ce4f5a00d33f7f6dc91c070
 }
 
 .col-1 {
